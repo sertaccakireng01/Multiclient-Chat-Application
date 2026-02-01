@@ -1,6 +1,6 @@
 Multi-Client Chat Application (JavaFX & Sockets)
 
-Youtube Video Link of Running Project: https://www.youtube.com/watch?v=WyT4d_sxHgk
+Youtube Video Link of Running Project: https://youtu.be/WyT4d_sxHgk
 
 This project is a real-time, GUI-based chat system built as part of the Advanced Java Programming course. 
 It features a robust server-client architecture that allows multiple users to communicate simultaneously over a network, earning a perfect 100% score for its stability and technical implementation.
