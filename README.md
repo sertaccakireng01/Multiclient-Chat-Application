@@ -39,7 +39,7 @@ Chatting Privately:
 <img width="1914" height="1031" alt="image" src="https://github.com/user-attachments/assets/180e3e5c-4ce6-4d8b-9d33-62bd5ca5d01b" />
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/78ad2058-58f9-4610-b60d-fa1c19f2f4e6" />
 
-Quitting Ports:
+Clients exit the App:
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/1bf10229-60d5-4a34-a8a7-2325902fd2b1" />
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/762dcff4-fa68-4a3d-bf92-88cd998de931" />
 
