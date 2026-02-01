@@ -27,3 +27,24 @@ Exception Handling: Robust management of network-related exceptions, ensuring th
 
 Developed as a 2-person group project, this application was a major milestone in understanding concurrent programming and network architectures. 
 It successfully demonstrates how to manage complex data flows and user states in a distributed environment.
+
+Starting Server: 
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/910882ca-9c73-4530-b66c-0653690e5e77" />
+
+Chatting on general:
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/5ff8476e-f5f6-4550-8d6a-48beeb743c4c" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/22fb5970-8af5-4745-9643-43c8275dc6c5" />
+
+Chatting Privately:
+<img width="1914" height="1031" alt="image" src="https://github.com/user-attachments/assets/180e3e5c-4ce6-4d8b-9d33-62bd5ca5d01b" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/78ad2058-58f9-4610-b60d-fa1c19f2f4e6" />
+
+Quitting Ports:
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/1bf10229-60d5-4a34-a8a7-2325902fd2b1" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/762dcff4-fa68-4a3d-bf92-88cd998de931" />
+
+
+
+
+
+
